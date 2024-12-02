@@ -1,0 +1,17 @@
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.deps.json
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.pdb
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.pruebaTecnica.DAL.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.PruebaTecnica.EN.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.pruebaTecnica.DAL.pdb
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\bin\Debug\net6.0\SaraLemus.2024.PruebaTecnica.EN.pdb
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.csproj.CopyComplete
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\refint\SaraLemus.2024.PruebaTecnica.BL.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.pdb
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\ref\SaraLemus.2024.PruebaTecnica.BL.dll

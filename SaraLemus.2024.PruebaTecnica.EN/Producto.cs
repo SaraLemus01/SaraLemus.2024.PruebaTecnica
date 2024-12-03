@@ -10,15 +10,16 @@ namespace SaraLemus._2024.PruebaTecnica.EN
     public class Producto
     {
         public int Id { get; set; }
-        [Display(Name = "Nombre")]
-        [Required(ErrorMessage = "El campo Nombre es obligatorio")]
-        [MaxLength(50, ErrorMessage = "El campo Nombre no puede tener mas de 50 caracteres")]
+
+        [Required(ErrorMessage = "El campo 'Nombre' es obligatorio.")]
+        [MaxLength(100, ErrorMessage = "El campo 'Nombre' no puede tener más de 100 caracteres.")]
         public string Nombre { get; set; }
-        [Display(Name = "Precio")]
-        [Required(ErrorMessage = "El campo Precio es obligatorio")]
-        [MaxLength(50, ErrorMessage = "El campo Precio no puede tener mas de 50 caracteres")]
+
+        [Required(ErrorMessage = "El campo 'Precio' es obligatorio.")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "El 'Precio' debe ser mayor que cero.")]
         public decimal Precio { get; set; }
-        
+
+        [Required(ErrorMessage = "El campo 'Categoría' es obligatorio.")]
         public int IdCategoria { get; set; }
     }
 }

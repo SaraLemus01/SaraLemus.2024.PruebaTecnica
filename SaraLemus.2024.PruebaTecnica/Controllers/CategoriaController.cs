@@ -19,7 +19,7 @@ namespace SaraLemus._2024.PruebaTecnica.Controllers
             // Obtenemos la lista de categorías del servicio BL
             var categorias = _categoriaBL.ObtenerCategorias();
 
-            // Pasamos el modelo correcto a la vista, que es IEnumerable<Categoria> y no IEnumerable<CategoriaBL>
+      
             return View(categorias);
         }
 

@@ -10,6 +10,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddScoped<CategoriaDAL>();
 builder.Services.AddScoped<CategoriaBL>();
+builder.Services.AddScoped<ProductoDAL>();
+builder.Services.AddScoped<ProductoBL>();
 
 builder.Services.AddControllersWithViews();
 

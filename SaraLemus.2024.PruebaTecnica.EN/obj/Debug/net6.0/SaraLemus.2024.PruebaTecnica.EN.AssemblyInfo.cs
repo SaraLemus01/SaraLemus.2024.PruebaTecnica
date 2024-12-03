@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaraLemus.2024.PruebaTecnica.EN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2715d642d457e812054c57f3b02cecc726dfee59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31fe7195a0c6451019dfdade07c469648e34dab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaraLemus.2024.PruebaTecnica.EN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaraLemus.2024.PruebaTecnica.EN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

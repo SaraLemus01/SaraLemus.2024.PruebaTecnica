@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MINEDUCYT/Desktop/SaraLemus.2024.pruebatecnica/SaraLemus.2024.PruebaTecnica/SaraLemus.2024.PruebaTecnica/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/SaraLemus.2024.pruebatecnica/SaraLemus.2024.PruebaTecnica/SaraLemus.2024.PruebaTecnica/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/SaraLemus.2024.pruebatecnica/SaraLemus.2024.PruebaTecnica/SaraLemus.2024.PruebaTecnica/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/SaraLemus.2024.pruebatecnica/SaraLemus.2024.PruebaTecnica/SaraLemus.2024.PruebaTecnica/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MINEDUCYT/Desktop/SaraLemus.2024.pruebatecnica/SaraLemus.2024.PruebaTecnica/SaraLemus.2024.PruebaTecnica/Views/Categoria/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

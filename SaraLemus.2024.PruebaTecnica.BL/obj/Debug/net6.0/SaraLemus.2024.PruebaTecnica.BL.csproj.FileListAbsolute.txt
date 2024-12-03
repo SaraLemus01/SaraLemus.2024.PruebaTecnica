@@ -15,3 +15,4 @@ C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTec
 C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\refint\SaraLemus.2024.PruebaTecnica.BL.dll
 C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.pdb
 C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\ref\SaraLemus.2024.PruebaTecnica.BL.dll
+C:\Users\MINEDUCYT\Desktop\SaraLemus.2024.pruebatecnica\SaraLemus.2024.PruebaTecnica\SaraLemus.2024.PruebaTecnica.BL\obj\Debug\net6.0\SaraLemus.2024.PruebaTecnica.BL.sourcelink.json
